@@ -1,0 +1,10 @@
+numpy>=1.21.0
+Pillow>=9.0.0
+imagehash>=4.3.1
+tqdm>=4.62.0
+click>=8.0.0
+scikit-learn>=1.0.0
+torch>=1.10.0
+torchvision>=0.11.0
+transformers>=4.20.0
+send2trash>=1.8.0
